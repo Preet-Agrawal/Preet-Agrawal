@@ -1,7 +1,7 @@
 # Hi, I'm Preet Agrawal
 **Pre-final year B.Tech student at IIIT Surat | DSA & Competitive Programming Enthusiast | Backend & Web Developer (Learning)**
 
-📧 Email Me :**preet81027@gmail.com**
+📧 Email Me : **preet81027@gmail.com**
 
 - **I’m currently working on:**  
   Data Structures & Algorithms and small full-stack web projects  
