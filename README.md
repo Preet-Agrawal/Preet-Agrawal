@@ -1,27 +1,24 @@
-# 💫 Hi 👋, I'm Preet Agrawal
+# Hi, I'm Preet Agrawal
 **Pre-final year B.Tech student at IIIT Surat | DSA & Competitive Programming Enthusiast | Backend & Web Developer (Learning)**
 
-📧 Email Me 👉 ✉️ **preet81027@gmail.com**
+📧 Email Me :**preet81027@gmail.com**
 
-- 🔭 **I’m currently working on:**  
+- **I’m currently working on:**  
   Data Structures & Algorithms and small full-stack web projects  
 
-- 🌱 **I’m currently learning:**  
+- **I’m currently learning:**  
   Node.js, Express.js, MongoDB, React, and Backend fundamentals  
 
-- 👯 **I’m looking to collaborate on:**  
+- **I’m looking to collaborate on:**  
   Beginner-friendly web development projects and open-source contributions  
 
-- 🤔 **I’m looking for help with:**  
+- **I’m looking for help with:**  
   Backend architecture, databases, and real-world project structuring  
 
-- 💬 **Ask me about:**  
-  C++, DSA, LeetCode/Codeforces, and Web Development basics  
+- **Ask me about:**  
+  C++, DSA, RAG, LeetCode/Codeforces, and Web Development basics  
 
-- 😄 **Pronouns:** He/Him  
-
-- ⚡ **Fun fact:**  
-  I enjoy simplifying complex problems into clean logic 🚀
+- **Pronouns:** He/Him  
 
 <!-- Snake Game Repo View -->
 
