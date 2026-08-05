@@ -4,13 +4,13 @@
 📧 Email Me : **preet81027@gmail.com**
 
 - **I’m currently working on:**  
-  Data Structures & Algorithms and small full-stack web projects  
+  Data Structures & Algorithms, RAG and full-stack web projects  
 
 - **I’m currently learning:**  
-  Node.js, Express.js, MongoDB, React, and Backend fundamentals  
+  Node.js, Express.js, MongoDB, React, FastAPI and Backend fundamentals  
 
 - **I’m looking to collaborate on:**  
-  Beginner-friendly web development projects and open-source contributions  
+  Open-source contributions  
 
 - **I’m looking for help with:**  
   Backend architecture, databases, and real-world project structuring  
